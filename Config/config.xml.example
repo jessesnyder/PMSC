@@ -1,0 +1,7 @@
+<appData>
+  <username>[username]</username>
+  <password>[password]</password>
+  <passwordToken>[token]</passwordToken>
+  <wsdl>[/path/to/this/directory/soapclient/partner.wsdl.xml]</wsdl>
+  <webserviceWsdl>[/path/to/this/directory/PMSC/Config/PMSCWebServices.wsdl.xml]</webserviceWsdl>
+</appData>

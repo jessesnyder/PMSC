@@ -1,0 +1,17 @@
+bin/
+parts/
+eggs/
+var/
+src/
+import/
+develop-eggs/
+coverage/
+*.pyc
+*.pyo
+*.mo
+.svn
+\.*cfg
+*~
+*.egg-info/
+._*
+Python-2.7/
